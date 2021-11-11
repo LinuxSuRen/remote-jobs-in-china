@@ -5,7 +5,7 @@
 | 中文名称 | 英文名称 | JD |
 |---|---|---|
 | [极狐](https://about.gitlab.cn/) | 无 | 无 |
-| [杭州果汁数据科技有限公司](https://juicefs.com/) | JuiceFS | [链接](https://github.com/juicedata/we-are-hiring) |
+| [杭州果汁数据科技有限公司](https://juicefs.com/) | Juicedata | [链接](https://github.com/juicedata/we-are-hiring) |
 | [青云科技](https://www.qingcloud.com/) | QingCloud | 无 |
 | APISix | 无 | 无 |
 | [Flomesh](https://flomesh.cn/) | 无 | 无 |
