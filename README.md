@@ -11,12 +11,12 @@
 | [极狐](https://about.gitlab.cn/) | 无 | 无 |
 | [杭州果汁数据科技有限公司](https://juicefs.com/) | Juicedata | [链接](https://github.com/juicedata/we-are-hiring) |
 | [深圳市腾云扣钉科技有限公司](https://coding.net/) | CODING | 无 |
+| [欧若数网](https://nebula-graph.com.cn/) | Nebula Graph | 无 |
 | [平凯星辰](https://pingcap.com/zh/) | PingCAP | 无 |
 | [青云科技](https://www.qingcloud.com/) | QingCloud | 无 |
 | [思斐软件技术有限公司](https://sphere-ex.com/) | SphereEx | 无 |
 | APISix | 无 | 无 |
 | [Flomesh](https://flomesh.cn/) | 无 | 无 |
-| [Nebula Graph](https://nebula-graph.com.cn/) | 无 | 无 |
 | [灵雀云](https://www.alauda.cn) | Alauda | [后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&page=1&department=%5B3251%5D&commitment=) |
 
 ## 相关链接
