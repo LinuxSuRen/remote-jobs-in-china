@@ -15,7 +15,7 @@
 | [平凯星辰](https://pingcap.com/zh/) | PingCAP | 无 |
 | [青云科技](https://www.qingcloud.com/) | QingCloud | 无 |
 | [思斐软件技术有限公司](https://sphere-ex.com/) | SphereEx | 无 |
-| APISix | 无 | 无 |
+| [支流科技](https://www.apiseven.com/zh) | API7 | 无 |
 | [Flomesh](https://flomesh.cn/) | 无 | 无 |
 | [灵雀云](https://www.alauda.cn) | Alauda | [后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&page=1&department=%5B3251%5D&commitment=) |
 | [思码逸](https://www.merico.cn) | Merico | [官网JD](https://merico.jobs.feishu.cn/index) |
