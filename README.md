@@ -23,6 +23,7 @@
 ## 播客
 
 * [迪魔王 Devmore - 大厂离职我选择了Remote](https://www.ximalaya.com/gerenchengzhang/52069269/464122465)
+* [极狐 GitLab 大讲坛 - 远程办公的深层逻辑](https://www.ximalaya.com/keji/54781524/475958284)
 
 ## 相关链接
 
