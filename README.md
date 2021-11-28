@@ -19,7 +19,7 @@
 | [Flomesh](https://flomesh.cn/) | 无 | 无 |
 | [灵雀云](https://www.alauda.cn) | Alauda | [后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&page=1&department=%5B3251%5D&commitment=) |
 | [思码逸](https://www.merico.cn) | Merico | [官网JD](https://merico.jobs.feishu.cn/index) |
-| [北京时代传浮科技有限公司](https://troph.work/) | Troph | [Twitter JD](https://twitter.com/Yuugumo_ichi/status/1451094844693090306) |
+| [北京时代传浮科技有限公司](https://troph.work/) | Troph | 无 |
 | [上海玖标科技](https://www.teamcode.com) | TeamCode | 无 |
 | [上海贝十云计算科技有限公司](https://bytebase.com) | Bytebase | [Jobs](https://bytebase.com/jobs) |
 
