@@ -19,6 +19,7 @@
 | [Flomesh](https://flomesh.cn/) | 无 | 无 |
 | [灵雀云](https://www.alauda.cn) | Alauda | [后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&page=1&department=%5B3251%5D&commitment=) |
 | [思码逸](https://www.merico.cn) | Merico | [官网JD](https://merico.jobs.feishu.cn/index) |
+| [上海玖标科技](https://www.teamcode.com) | TeamCode | 无 |
 
 ## 播客
 
