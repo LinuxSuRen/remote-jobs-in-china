@@ -21,6 +21,7 @@
 | [思码逸](https://www.merico.cn) | Merico | [官网JD](https://merico.jobs.feishu.cn/index) |
 | [上海玖标科技](https://www.teamcode.com) | TeamCode | 无 |
 | [上海贝十云计算科技有限公司](https://bytebase.com) | Bytebase | [Jobs](https://bytebase.com/jobs) |
+| [北京数变科技有限公司](https://databend.rs/) | Datafuse Labs | |
 
 ## 播客
 
