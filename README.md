@@ -22,6 +22,7 @@
 | [上海玖标科技](https://www.teamcode.com) | TeamCode | 无 |
 | [上海贝十云计算科技有限公司](https://bytebase.com) | Bytebase | [Jobs](https://bytebase.com/jobs) |
 | [北京数变科技有限公司](https://databend.rs/) | Datafuse Labs | |
+| [红帽软件（北京）有限公司](https://www.redhat.com/zh) | Red Hat | [Jobs](https://careers-redhat.icims.com/jobs/search?searchLocation=12987--Remote) |
 
 ## 播客
 
