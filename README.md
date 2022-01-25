@@ -13,7 +13,6 @@
 | [深圳市腾云扣钉科技有限公司](https://coding.net/) | CODING | 无 |
 | [欧若数网](https://nebula-graph.com.cn/) | Nebula Graph | 无 |
 | [平凯星辰](https://pingcap.com/zh/) | PingCAP | 无 |
-| [青云科技](https://www.qingcloud.com/) | QingCloud | 无 |
 | [思斐软件技术有限公司](https://sphere-ex.com/) | SphereEx | 无 |
 | [支流科技](https://www.apiseven.com/zh) | API7 | 无 |
 | [Flomesh](https://flomesh.cn/) | 无 | 无 |
