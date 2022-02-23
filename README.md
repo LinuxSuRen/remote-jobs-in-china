@@ -8,7 +8,7 @@
 
 | 中文名称 | 英文名称 | JD |
 |---|---|---|
-| [极狐](https://about.gitlab.cn/) | 无 | 无 |
+| [极狐(GitLab)](https://gitlab.cn/) | JiHu(GitLab) | [招聘职位](https://about.gitlab.cn/careers) |
 | [杭州果汁数据科技有限公司](https://juicefs.com/) | Juicedata | [链接](https://github.com/juicedata/we-are-hiring) |
 | [深圳市腾云扣钉科技有限公司](https://coding.net/) | CODING | 无 |
 | [欧若数网](https://nebula-graph.com.cn/) | Nebula Graph | 无 |
