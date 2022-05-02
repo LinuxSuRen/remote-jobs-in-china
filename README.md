@@ -25,6 +25,7 @@
 
 ## 播客
 
+* [E28｜舍弃线下办公室，全员远程办公一年后，他们总结出了这份秘籍](https://zuzhijinhualun.fireside.fm/28)
 * [迪魔王 Devmore - 大厂离职我选择了Remote](https://www.ximalaya.com/gerenchengzhang/52069269/464122465)
 * [迪魔王 Devmore - 与支流科技CEO、实习生聊聊Remote](https://www.ximalaya.com/sound/462104090)
 * [极狐 GitLab 大讲坛 - 远程办公的深层逻辑](https://www.ximalaya.com/keji/54781524/475958284)
