@@ -37,3 +37,7 @@
 * https://github.com/greatghoul/remote-working
 * https://github.com/yanirs/established-remote
 * [中国远程工作资料大全 - 已归档](https://github.com/greatghoul/remote-working)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LinuxSuRen/remote-jobs-in-china&type=Date)](https://star-history.com/#LinuxSuRen/remote-jobs-in-china&Date)
