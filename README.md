@@ -34,6 +34,7 @@
 
 ## 相关链接
 
+* [开源最佳实践](https://github.com/LinuxSuRen/open-source-best-practice)
 * https://github.com/greatghoul/remote-working
 * https://github.com/yanirs/established-remote
 * [中国远程工作资料大全 - 已归档](https://github.com/greatghoul/remote-working)
