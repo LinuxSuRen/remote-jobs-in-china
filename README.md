@@ -1,3 +1,22 @@
+items/alauda.yaml
+items/apiseven.yaml
+items/bytebase.yaml
+items/coding.yaml
+items/databend.yaml
+items/dptech.yaml
+items/flomesh.yaml
+items/gitlab.yaml
+items/juicefs.yaml
+items/matrixorigin.yaml
+items/merico.yaml
+items/nebula.yaml
+items/oneflow.yaml
+items/pingcap.yaml
+items/sphere-ex.yaml
+items/streamnative.yaml
+items/taosdata.yaml
+items/teamcode.yaml
+items/yuanling.yaml
 > 该文件是自动生成的，如果需要修改或者新增内容，请修改 [README.tpl](README.tpl) 或目录 `items` 下的 YAML 文件。
 
 # 来自中国的支持远程办公的公司
@@ -15,6 +34,7 @@
 |[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)|
 |[深圳市腾云扣钉科技有限公司](https://coding.net/)|CODING||
 |[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs||
+|[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)|
 |[Flomesh](https://flomesh.cn/)|||
 |[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)|
 |[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
