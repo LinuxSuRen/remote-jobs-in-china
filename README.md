@@ -1,4 +1,3 @@
-failed to parse file [items/sphere-ex.yaml] as a YAML, error: yaml: line 4: found unexpected end of stream
 > 该文件是自动生成的，如果需要修改或者新增内容，请修改 [README.tpl](README.tpl) 或目录 `items` 下的 YAML 文件。
 
 # 来自中国的支持远程办公的公司
@@ -24,6 +23,7 @@ failed to parse file [items/sphere-ex.yaml] as a YAML, error: yaml: line 4: foun
 |[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph||
 |[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)|
 |[平凯星辰](https://pingcap.com/zh/)|PingCAP||
+|[思斐软件技术有限公司](https://sphere-ex.com/)|SphereEx||
 |[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)|
 |[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)|
 |[上海玖标科技](https://www.teamcode.com)|TeamCode||
