@@ -1,22 +1,3 @@
-items/alauda.yaml
-items/apiseven.yaml
-items/bytebase.yaml
-items/coding.yaml
-items/databend.yaml
-items/dptech.yaml
-items/flomesh.yaml
-items/gitlab.yaml
-items/juicefs.yaml
-items/matrixorigin.yaml
-items/merico.yaml
-items/nebula.yaml
-items/oneflow.yaml
-items/pingcap.yaml
-items/sphere-ex.yaml
-items/streamnative.yaml
-items/taosdata.yaml
-items/teamcode.yaml
-items/yuanling.yaml
 > 该文件是自动生成的，如果需要修改或者新增内容，请修改 [README.tpl](README.tpl) 或目录 `items` 下的 YAML 文件。
 
 # 来自中国的支持远程办公的公司
