@@ -27,6 +27,7 @@ jobs:
           
           ./yaml-readme > README.md
           rm -rf yaml-readme
+          rm -rf tools
 
       - name: Update
         run: |
