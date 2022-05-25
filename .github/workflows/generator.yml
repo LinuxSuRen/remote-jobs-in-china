@@ -1,0 +1,37 @@
+name: generator
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'ci skip')"
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: 1.18.x
+
+      - name: Generate
+        run: |
+          git clone https://github.com/LinuxSuRen/tools
+          cd tools/cmd && go build -o yaml-readme && cd ../..
+          pwd
+          cp tools/cmd/yaml-readme . 
+          
+          ./yaml-readme > README.md
+          rm -rf yaml-readme
+
+      - name: Update
+        run: |
+          git config --local user.email "361981269@qq.com"
+          git config --local user.name "rick"
+          git add . 
+          git commit -m "Auto commit by rick's bot, ci skip"
+          git push https://linuxsuren:${{ secrets.GH_SECRETS }}@github.com/linuxsuren/remote-jobs-in-china.git HEAD:master
