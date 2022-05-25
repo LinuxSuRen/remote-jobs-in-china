@@ -25,6 +25,7 @@
 | [北京原流数据科技发展有限公司](http://streamnative.io) | StreamNative | [BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)|
 | [圆领](https://www.yuanling.com) | | [JD](https://zhaopin.lanehub.cn/home) |
 | [矩阵起源](https://www.matrixorigin.io/) | MatrixOrigin | [官网JD](https://www.matrixorigin.cn/recruitment.html) |
+| [涛思数据](https://www.taosdata.com/) | TDengine | [招聘职位](https://www.taosdata.com/careers) |
 
 ## 播客
 
