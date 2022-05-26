@@ -21,7 +21,7 @@
 |[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
 |[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)|
 |[思码逸](https://www.merico.cn)|Merico|[官网JD](https://merico.jobs.feishu.cn/index)|
-|[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph||
+|[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|https://vesoft.com/cn/careers/|
 |[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)|
 |[平凯星辰](https://pingcap.com/zh/)|PingCAP||
 |[思斐软件技术有限公司](https://sphere-ex.com/)|SphereEx||
