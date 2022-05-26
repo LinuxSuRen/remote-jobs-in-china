@@ -29,6 +29,7 @@
 |[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)|
 |[上海玖标科技](https://www.teamcode.com)|TeamCode||
 |[圆领](https://www.yuanling.com)||[JD](https://zhaopin.lanehub.cn/home)|
+|[石原子科技](https://www.stoneatom.com)|StoneAtom|[JD](https://www.stoneatom.com/joinUs)|
 
 ## 播客
 
