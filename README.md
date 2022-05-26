@@ -10,6 +10,7 @@
 
 | 中文名称 | 英文名称 | JD |
 |---|---|---|
+|[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)|
 |[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)|
 |[支流科技](https://www.apiseven.com/zh)|API7||
 |[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)|
