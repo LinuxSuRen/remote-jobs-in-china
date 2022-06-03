@@ -10,26 +10,26 @@
 
 | 中文名称 | 英文名称 | JD |
 |---|---|---|
-|[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)|
-|[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)|
-|[支流科技](https://www.apiseven.com/zh)|API7||
-|[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)|
-|[深圳市腾云扣钉科技有限公司](https://coding.net/)|CODING||
-|[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs||
-|[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)|
 |[Flomesh](https://flomesh.cn/)|||
-|[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)|
-|[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
-|[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)|
-|[思码逸](https://www.merico.cn)|Merico|[官网JD](https://merico.jobs.feishu.cn/index)|
-|[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|https://vesoft.com/cn/careers/|
+|[上海玖标科技](https://www.teamcode.com)|TeamCode||
+|[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)|
 |[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)|
+|[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)|
+|[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs||
+|[圆领](https://www.yuanling.com)||[JD](https://zhaopin.lanehub.cn/home)|
 |[平凯星辰](https://pingcap.com/zh/)|PingCAP||
 |[思斐软件技术有限公司](https://sphere-ex.com/)|SphereEx||
-|[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)|
+|[思码逸](https://www.merico.cn)|Merico|[官网JD](https://merico.jobs.feishu.cn/index)|
+|[支流科技](https://www.apiseven.com/zh)|API7||
+|[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
+|[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)|
+|[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|https://vesoft.com/cn/careers/|
 |[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)|
-|[上海玖标科技](https://www.teamcode.com)|TeamCode||
-|[圆领](https://www.yuanling.com)||[JD](https://zhaopin.lanehub.cn/home)|
+|[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)|
+|[深圳市腾云扣钉科技有限公司](https://coding.net/)|CODING||
+|[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)|
+|[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)|
+|[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)|
 
 ## 播客
 
