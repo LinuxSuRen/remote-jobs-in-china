@@ -30,6 +30,7 @@
 |[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)|
 |[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)|
 |[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)|
+|[萌时科技](https://www.moego.pet)|MoeGo|[JD](https://selective-ginger-c4e.notion.site/MoeGo-Internal-Referral-MoeGo-b6a77543c00e4ca2b3f80c85d1553731)|
 
 ## 播客
 
