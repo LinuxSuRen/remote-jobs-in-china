@@ -45,7 +45,8 @@
 
 * [开源最佳实践](https://github.com/LinuxSuRen/open-source-best-practice)
 * https://github.com/greatghoul/remote-working
-* https://github.com/yanirs/established-remote
+* [Established remote companies (hiring globally)](https://github.com/yanirs/established-remote)
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 * [中国远程工作资料大全 - 已归档](https://github.com/greatghoul/remote-working)
 * [远程工作的光谱](https://xuanwo.io/reports/2022-21/)
 
