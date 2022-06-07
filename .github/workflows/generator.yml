@@ -22,4 +22,4 @@ jobs:
           username: linuxsuren
           org: linuxsuren
           repo: remote-jobs-in-china
-          sortby: !zh
+          sortby: '!zh'
