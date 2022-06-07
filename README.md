@@ -4,7 +4,7 @@
 
 相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-如果你考虑过换一份支持远程办公的工作，那么，可以关注下面的列表（ 21 家国内公司）：
+如果你考虑过换一份支持远程办公的工作，那么，可以关注下面的列表（ 22 家国内公司）：
 
 > 以下公司列表以字母（汉字、英文）排序
 
@@ -18,6 +18,7 @@
 |[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)|
 |[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)|
 |[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|https://vesoft.com/cn/careers/|
+|[欧科云链](https://www.ok.cn/zh-cn)|okx|[招聘职位](https://app.mokahr.com/apply/okgroup/4333#/)|
 |[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)|
 |[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
 |[支流科技](https://www.apiseven.com/zh)|API7||
