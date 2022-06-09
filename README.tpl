@@ -24,6 +24,7 @@
 * [迪魔王 Devmore - 与支流科技CEO、实习生聊聊Remote](https://www.ximalaya.com/sound/462104090)
 * [极狐 GitLab 大讲坛 - 远程办公的深层逻辑](https://www.ximalaya.com/keji/54781524/475958284)
 * [和吴晟聊开源 - Remote 是不是程序员的自由之路](https://www.xiaoyuzhoufm.com/episode/61d58ccf2654166e94d07d7e)
+* [S02E02 走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866)
 
 ## 相关链接
 
