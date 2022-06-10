@@ -22,7 +22,7 @@
 |[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)|
 |[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)|
 |[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|[加入 Nebula Graph 🏴‍☠️](https://vesoft.com/cn/careers/)|
-|[欧科云链](https://www.okg.com/zh-cn)|okx|[招聘职位](https://app.mokahr.com/apply/okgroup/4333#/) [内推邮箱(加速流程)](mailto:binhao.li@okg.com &#34;binhao.li@okg.com&#34;)|
+|[欧科云链](https://www.okg.com/zh-cn)|okx|[招聘职位](https://app.mokahr.com/apply/okgroup/4333#/) [内推邮箱(加速流程)](mailto:binhao.li@okg.com)|
 |[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)|
 |[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
 |[支流科技](https://www.apiseven.com/zh)|API7||
