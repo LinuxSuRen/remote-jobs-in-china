@@ -37,6 +37,6 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LinuxSuRen/remote-jobs-in-china&type=Date)](https://star-history.com/#LinuxSuRen/remote-jobs-in-china&Date)
+{{printStarHistory "LinuxSuRen" "remote-jobs-in-china"}}
 
-![Visitor Count](https://profile-counter.glitch.me/{LinuxSuRen-remote-jobs-in-china}/count.svg)
+{{printVisitorCount "LinuxSuRen-remote-jobs-in-china"}}
