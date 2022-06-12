@@ -12,30 +12,30 @@
 
 > 以下公司列表以字母（汉字、英文）排序
 
-| 中文名称 | 英文名称 | JD |
-|---|---|---|
-|[萌时科技](https://www.moego.pet)|MoeGo|[JD](https://selective-ginger-c4e.notion.site/MoeGo-Internal-Referral-MoeGo-b6a77543c00e4ca2b3f80c85d1553731)|
-|[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)|
-|[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)|
-|[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)|
-|[深圳市腾云扣钉科技有限公司](https://coding.net/)|CODING||
-|[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)|
-|[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)|
-|[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|[加入 Nebula Graph 🏴‍☠️](https://vesoft.com/cn/careers/)|
-|[欧科云链](https://www.okg.com/zh-cn)|okx|[招聘职位](https://app.mokahr.com/apply/okgroup/4333#/) [内推邮箱(加速流程)](mailto:binhao.li@okg.com)|
-|[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)|
-|[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)|
-|[支流科技](https://www.apiseven.com/zh)|API7||
-|[思码逸](https://www.merico.cn)|Merico|[官网JD](https://merico.jobs.feishu.cn/index)|
-|[思斐软件技术有限公司](https://sphere-ex.com/)|SphereEx||
-|[平凯星辰](https://pingcap.com/zh/)|PingCAP||
-|[圆领](https://www.yuanling.com)||[JD](https://zhaopin.lanehub.cn/home)|
-|[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs||
-|[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)|
-|[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)|
-|[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)|
-|[上海玖标科技](https://www.teamcode.com)|TeamCode||
-|[Flomesh](https://flomesh.cn/)|||
+| 中文名称 | 英文名称 | JD | Edit |
+|---|---|---|---|
+|[萌时科技](https://www.moego.pet)|MoeGo|[JD](https://selective-ginger-c4e.notion.site/MoeGo-Internal-Referral-MoeGo-b6a77543c00e4ca2b3f80c85d1553731)| [Edit](items/moego.yaml) |
+|[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)| [Edit](items/4Paradigm.yaml) |
+|[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)| [Edit](items/matrixorigin.yaml) |
+|[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)| [Edit](items/alauda.yaml) |
+|[深圳市腾云扣钉科技有限公司](https://coding.net/)|CODING|| [Edit](items/coding.yaml) |
+|[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)| [Edit](items/dptech.yaml) |
+|[涛思数据](https://www.taosdata.com/)|TDengine|[招聘职位](https://www.taosdata.com/careers)| [Edit](items/taosdata.yaml) |
+|[欧若数网](https://nebula-graph.com.cn/)|Nebula Graph|[加入 Nebula Graph 🏴‍☠️](https://vesoft.com/cn/careers/)| [Edit](items/nebula.yaml) |
+|[欧科云链](https://www.okg.com/zh-cn)|okx|[招聘职位](https://app.mokahr.com/apply/okgroup/4333#/) [内推邮箱(加速流程)](mailto:binhao.li@okg.com)| [Edit](items/okx.yaml) |
+|[极狐(GitLab)](https://gitlab.cn/)|JiHu(GitLab)|[招聘职位](https://about.gitlab.cn/careers)| [Edit](items/gitlab.yaml) |
+|[杭州果汁数据科技有限公司](https://juicefs.com/)|Juicedata|[链接](https://github.com/juicedata/we-are-hiring)| [Edit](items/juicefs.yaml) |
+|[支流科技](https://www.apiseven.com/zh)|API7|| [Edit](items/apiseven.yaml) |
+|[思码逸](https://www.merico.cn)|Merico|[官网JD](https://merico.jobs.feishu.cn/index)| [Edit](items/merico.yaml) |
+|[思斐软件技术有限公司](https://sphere-ex.com/)|SphereEx|| [Edit](items/sphere-ex.yaml) |
+|[平凯星辰](https://pingcap.com/zh/)|PingCAP|| [Edit](items/pingcap.yaml) |
+|[圆领](https://www.yuanling.com)||[JD](https://zhaopin.lanehub.cn/home)| [Edit](items/yuanling.yaml) |
+|[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs|| [Edit](items/databend.yaml) |
+|[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)| [Edit](items/streamnative.yaml) |
+|[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)| [Edit](items/oneflow.yaml) |
+|[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)| [Edit](items/bytebase.yaml) |
+|[上海玖标科技](https://www.teamcode.com)|TeamCode|| [Edit](items/teamcode.yaml) |
+|[Flomesh](https://flomesh.cn/)||| [Edit](items/flomesh.yaml) |
 
 ## 播客
 
