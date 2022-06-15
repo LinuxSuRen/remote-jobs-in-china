@@ -1,0 +1,18 @@
+name: Backup Git repository
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+
+jobs:
+  BackupGit:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.3.4
+    - name: backup
+      uses: jenkins-zh/git-backup-actions@v0.0.4
+      env:
+        GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
+        TARGET_GIT: "git@gitee.com:LinuxSuRen/remote-jobs-in-china.git"
