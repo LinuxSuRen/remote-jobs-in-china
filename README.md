@@ -8,12 +8,13 @@
 
 相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-如果你考虑过换一份支持远程办公的工作，那么，可以关注下面的列表（ 22 家国内公司）：
+如果你考虑过换一份支持远程办公的工作，那么，可以关注下面的列表（ 23 家国内公司）：
 
 > 以下公司列表以字母（汉字、英文）排序
 
 | 中文名称 | 英文名称 | JD | Edit |
 |---|---|---|---|
+|燧炻创新|Fyde Innovations|[JD](https://fydeos.com/content/job-location/remote/)| [Edit](items/fydeos.yaml) |
 |[萌时科技](https://www.moego.pet)|MoeGo|[JD](https://selective-ginger-c4e.notion.site/MoeGo-Internal-Referral-MoeGo-b6a77543c00e4ca2b3f80c85d1553731)| [Edit](items/moego.yaml) |
 |[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)| [Edit](items/4Paradigm.yaml) |
 |[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)| [Edit](items/matrixorigin.yaml) |
