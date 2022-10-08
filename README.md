@@ -10,10 +10,10 @@
 
 | 中文名称 | 英文名称 | JD | Edit |
 |---|---|---|---|
-|燧炻创新|Fyde Innovations|[JD](https://fydeos.com/content/job-location/remote/)| [Edit](items/fydeos.yaml) |
 |[萌时科技](https://www.moego.pet)|MoeGo|[JD](https://selective-ginger-c4e.notion.site/MoeGo-Internal-Referral-MoeGo-b6a77543c00e4ca2b3f80c85d1553731)| [Edit](items/moego.yaml) |
 |[第四范式](https://www.4paradigm.com)|4Paradigm|[招聘职位](https://www.4paradigm.com/about/hr.html)| [Edit](items/4Paradigm.yaml) |
 |[矩阵起源](https://www.matrixorigin.io/)|MatrixOrigin|[官网JD](https://www.matrixorigin.cn/recruitment.html)| [Edit](items/matrixorigin.yaml) |
+|[燧炻创新](https://fydeos.com/)|Fyde Innovations|[JD](https://fydeos.com/career/)| [Edit](items/fydeos.yaml) |
 |[灵雀云](https://www.alauda.cn)|Alauda|[后端研发](https://app.mokahr.com/apply/lqy/2430#/jobs?zhineng=4060&amp;page=1&amp;department=%5B3251%5D&amp;commitment=)| [Edit](items/alauda.yaml) |
 |[深圳市腾云扣钉科技有限公司](https://coding.net/)|CODING|| [Edit](items/coding.yaml) |
 |[深势科技](https://dp.tech/)|DP Technology|[微信推送](https://mp.weixin.qq.com/s/diFh15Osfhp_NMxud8QNsA)| [Edit](items/dptech.yaml) |
