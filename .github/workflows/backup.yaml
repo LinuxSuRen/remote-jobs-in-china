@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3.1.0
     - name: backup
-      uses: jenkins-zh/git-backup-actions@v0.0.6
+      uses: jenkins-zh/git-backup-actions@v0.0.8
       env:
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
         TARGET_GIT: "git@gitee.com:LinuxSuRen/remote-jobs-in-china.git"
