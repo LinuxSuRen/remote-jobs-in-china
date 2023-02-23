@@ -28,6 +28,11 @@
 * [中国远程工作资料大全 - 已归档](https://github.com/greatghoul/remote-working)
 * [远程工作的光谱](https://xuanwo.io/reports/2022-21/)
 
+## 推荐工具
+
+* [通用软件包安装工具，支持 GitHub 代理](https://github.com/LinuxSuRen/http-downloader)
+* [Markdown 交互式教程](https://github.com/LinuxSuRen/md-exec)
+
 ## Star History
 
 {{printStarHistory "LinuxSuRen" "remote-jobs-in-china"}}
