@@ -6,7 +6,7 @@
 
 相比于集中式办公，远程办公（remote）在国内（中国）依然是一种不是很普遍的工作方式。远程办公，不用拘束于具体的地理位置（城市，甚至国家），这对于热衷于追求自由的人而言，无疑充满了诱惑。尤其是，对于已经厌倦了在北、上、广工作时需要较长通勤时间（大于1小时）的人，远程办公“可能”是一种解脱。
 
-如果你考虑过换一份支持远程办公的工作，那么，可以关注下面的列表（ 25 家国内公司）：
+如果你考虑过换一份支持远程办公的工作，那么，可以关注下面的列表（ 26 家国内公司）：
 
 > 以下公司列表以字母（汉字、英文）排序
 
@@ -33,6 +33,7 @@
 |[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs|| [Edit](items/databend.yaml) |
 |[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)| [Edit](items/streamnative.yaml) |
 |[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)| [Edit](items/oneflow.yaml) |
+|[佐玩](https://zolplay.cn/)|Zolplay|[官网](https://zolplay.cn/careers)| [Edit](items/zolplay.yaml) |
 |[上海贝十云计算科技有限公司](https://bytebase.com)|Bytebase|[Jobs](https://bytebase.com/jobs)| [Edit](items/bytebase.yaml) |
 |[上海玖标科技](https://www.teamcode.com)|TeamCode|| [Edit](items/teamcode.yaml) |
 |[Toeverything](https://affine.pro/)|Toeverything - AFFiNE|[Jobs](https://github.com/toeverything/AFFiNE/blob/master/docs/jobs.md)| [Edit](items/toeverything.yaml) |
