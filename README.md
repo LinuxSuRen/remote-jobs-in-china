@@ -59,6 +59,7 @@
 
 * [通用软件包安装工具，支持 GitHub 代理](https://github.com/LinuxSuRen/http-downloader)
 * [Markdown 交互式教程](https://github.com/LinuxSuRen/md-exec)
+* [基于 YAML 编写测试用例的接口测试工具](https://github.com/LinuxSuRen/api-testing)
 
 ## Star History
 
