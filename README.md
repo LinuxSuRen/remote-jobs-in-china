@@ -29,7 +29,7 @@
 |[思码逸](https://www.merico.cn)|Merico|[官网JD](https://merico.jobs.feishu.cn/index)| [Edit](items/merico.yaml) |
 |[思斐软件技术有限公司](https://sphere-ex.com/)|SphereEx|| [Edit](items/sphere-ex.yaml) |
 |[平凯星辰](https://pingcap.com/zh/)|PingCAP|| [Edit](items/pingcap.yaml) |
-|[圆领](https://www.yuanling.com)||[JD](https://zhaopin.lanehub.cn/home)| [Edit](items/yuanling.yaml) |
+|[圆领](https://www.superthem.com)||[JD](https://zhaopin.lanehub.cn/home)| [Edit](items/yuanling.yaml) |
 |[北京数变科技有限公司](https://databend.rs/)|Datafuse Labs|| [Edit](items/databend.yaml) |
 |[北京原流数据科技发展有限公司](http://streamnative.io)|StreamNative|[BOSS直聘](https://www.zhipin.com/gongsi/c1aae0d48be290771nd639y7FlQ~.html)| [Edit](items/streamnative.yaml) |
 |[北京一流科技有限公司](https://www.oneflow.org)|OneFlow|[BOSS直聘](https://www.zhipin.com/gongsir/41201289c2786e311H1_3NW5Ew~~.html)| [Edit](items/oneflow.yaml) |
