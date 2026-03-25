@@ -30,6 +30,7 @@
 * [中国远程工作资料大全 - 已归档](https://github.com/greatghoul/remote-working)
 * [远程工作的光谱](https://xuanwo.io/reports/2022-21/)
 * [WorkBest](https://workbest.xyz/jobs?work_mode=remote)
+* [远程岛](http://yuanchengdao.com/)
 
 ## 推荐工具
 
